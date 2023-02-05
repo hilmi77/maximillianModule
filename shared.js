@@ -13,8 +13,6 @@ for (var i = 0; i < selectPlanButtons.length; i++) {
     // modal.className='open'; This will actually overwrite the complete class list
     modal.classList.add("open");
     backdrop.classList.add("open");
-
-    //pushlamak için
   });
 }
 

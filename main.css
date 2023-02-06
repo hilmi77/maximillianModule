@@ -145,14 +145,11 @@
     .key-feature {
      display: inline-block; 
      width: 30%;
-     max-width: 25rem;
+     max-width: 25rem ;
      vertical-align: top;
 
-    }
-   
+    } 
 }
-
-
 /* h1 {
     font-family: sans-serif;
 } */

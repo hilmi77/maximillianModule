@@ -12,7 +12,7 @@
     /* background-image: radial-gradient(ellipse closest-side at 30% 50%, yellow, red,green); */
     width: 100vw;  
     height: 33vh;
-    margin-top: 2.7rem;
+    margin-top: 3.5rem;
     /* border: 5px dashed red; */
     position: relative;      
 }
@@ -24,7 +24,7 @@
     left: 3%;
     font-size: 1.6rem;
 }
-@media (min-width: 40rem) and (min-height: 60rem) {
+@media (min-width: 40rem) and (min-height: 40rem) {
     #product-overview {
         height: 40vh;
         background-position: 50% 25%;
